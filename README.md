@@ -1,4 +1,3 @@
-# DATA_LOGGER_TEMP_REEL
 Voici un `README.md` prêt à copier-coller en anglais avec emojis et tableaux :
 
 ````markdown
@@ -301,4 +300,3 @@ Build a reliable embedded data acquisition system with:
 
 STM32 FreeRTOS Data Logger Project
 ````
-
