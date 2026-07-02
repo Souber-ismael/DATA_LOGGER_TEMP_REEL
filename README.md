@@ -1,4 +1,3 @@
-Voici un `README.md` prêt à copier-coller en anglais avec emojis et tableaux :
 
 ````markdown
 # 🌡️ STM32 FreeRTOS Data Logger
